@@ -1,0 +1,11 @@
+li{ 
+    font-family: Garamond;
+    color: lightgreen;
+  display: inline-block;
+    padding: 50px;
+    background: black;
+     text-align: right;
+ 
+   
+}
+body{ background-color: lightgreen; }
